@@ -1,0 +1,3 @@
+Basics:
+
+http://lilypadarduino.org
